@@ -23,8 +23,8 @@ var GameState = 0; //0: 停止 1：开始 2：暂停
 var tex = {
 	hero: 'img/hero.png',
 	enemy: 'img/enemy1.png',
-	bullet: 'img/bullet1.png',
-	bomb: 'img/wsparticle_07.png'
+	bullet: 'img/wsparticle_09.png',
+	bomb: 'img/wsparticle_09.png'
 }
 
 var enemyTex = [
